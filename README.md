@@ -29,7 +29,7 @@
 
 <p align="center">Oi, tudo bem? Pode me chamar de Nathan! <br> 
 Sou desenvolvedor Full Stack formado em sistemas para internet. Atualmente trabalho principalmente com Front-end, mas ainda sim com um pouco de Back-end. Estou aprimorando meus conhecimentos em JavaScript e TypeScript.</p>
-<br><br>
+<br>
 
 
  <div align="center">  
