@@ -32,6 +32,10 @@ Sou desenvolvedor Full Stack formado em sistemas para internet. Atualmente traba
 <br><br>
 
 
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathanManhkeBNUSC&show_icons=true&count_private=true&hide_border=true&title_color=8FBFFF&icon_color=8FBFFF&text_color=8FBFFF&bg_color=012034" alt="Nathan Manhke github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanManhkeBNUSC&layout=compact&hide_border=true&title_color=012034&text_color=012034&bg_color=8FBFFF" />
+</div>
 
 
 
@@ -59,10 +63,7 @@ Sou desenvolvedor Full Stack formado em sistemas para internet. Atualmente traba
 ![TypeScript](https://img.shields.io/badge/TypeScript-8FBFFF?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
   <br>
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NathanManhkeBNUSC&show_icons=true&count_private=true&hide_border=true&title_color=8FBFFF&icon_color=8FBFFF&text_color=8FBFFF&bg_color=012034" alt="Nathan Manhke github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanManhkeBNUSC&layout=compact&hide_border=true&title_color=012034&text_color=012034&bg_color=8FBFFF" />
-</div>
+ 
   
 
 
