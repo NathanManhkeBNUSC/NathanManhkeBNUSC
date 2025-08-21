@@ -28,7 +28,7 @@
 </div><br>
 
 <p align="center">Oi, tudo bem? Pode me chamar de Nathan! <br> 
-Sou desenvolvedor Full Stack formado em sistemas para internet. Atualmente trabalho principalmente com Front-end, mas ainda sim com um pouco de Back-end. Estou aprimorando meus conhecimentos em JavaScript e TypeScript.</p>
+Sou desenvolvedor formado em sistemas para internet.</p>
 <br>
 
 
@@ -72,4 +72,5 @@ Sou desenvolvedor Full Stack formado em sistemas para internet. Atualmente traba
     <img src="2.png">
   </a>
 </div>
+
 
