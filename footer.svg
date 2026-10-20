@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Obrigado pela visita">
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+    .t { clip-path: inset(0 100% 0 0); animation: type 2s steps(46) .4s forwards; }
+    .c { animation: blink 1s steps(1) infinite; }
+    @keyframes type  { to { clip-path: inset(0 0 0 0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8FBFFF" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="r"><rect width="1200" height="120" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="120" fill="#012034"/>
+    <rect width="1200" height="120" fill="url(#g)"/>
+    <rect width="1200" height="2" fill="#8FBFFF" opacity=".5"/>
+    <g class="mono" font-size="19">
+      <text x="56" y="68" class="t"><tspan fill="#7EE2B8">$</tspan><tspan fill="#8FBFFF"> git commit</tspan><tspan fill="#E6F0FF"> -m "obrigado pela visita!"</tspan><tspan fill="#8FBFFF" class="c"> _</tspan></text>
+    </g>
+    <text x="1144" y="68" text-anchor="end" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="15" fill="#4F6F94">github.com/NathanManhkeBNUSC</text>
+  </g>
+</svg>
